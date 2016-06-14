@@ -1,3 +1,6 @@
+# About
+Uhh.. I don't know what I'm doing. I'm just following [Jeff Ammon's Course](https://app.pluralsight.com/library/courses/static-site-generator-build-better-blog/table-of-contents)
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Blog Home](http://startbootstrap.com/template-overviews/blog-home/)
 
 [Blog Home](http://startbootstrap.com/template-overviews/blog-home/) is a basic blog homepage HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
